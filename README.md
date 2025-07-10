@@ -3,6 +3,12 @@
 [\#APRSThursday](https://aprsph.net/aprsthursday) is a worldwide APRS messaging net held every Thursday and managed by Michael KC8OWL. The purpose is to increase APRS message traffic globally.
 This project is an Azure Function designed to send a predefined APRS message every Thursday. It can also be triggered manually via an HTTP request. It can also be run using Docker.
 
+## Disclaimer
+
+You should get callsign and passcode from your local amateur radio authority. **Do not use this project to spam the APRS network.**
+This project is **not affiliated with or endorsed by** the official #APRSThursday net or its organizers.  
+It is an independent tool created to help automate participation in the #APRSThursday event.
+
 ## How to Run
 
 ### From Docker (No Azure Functions Core Tools Needed)
