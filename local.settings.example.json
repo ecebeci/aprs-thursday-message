@@ -1,0 +1,13 @@
+{
+    "IsEncrypted": false,
+    "Values": {
+      "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+      "FUNCTIONS_WORKER_RUNTIME": "dotnet-isolated",
+      "APRS_SERVER_URL": "https://ametx.com:8888",
+      "CALLSIGN": "YOUR_CALLSIGN",
+      "PASSCODE": "YOUR_PASSCODE",
+      "VERSION": "AprsThursdayAutomation 1.0",
+      "APRS_THURSDAY_MESSAGE_TO": "ANSRVR",
+      "APRS_THURSDAY_MESSAGE_TEXT": "CQ HOTG TURKIYE 73!"
+    }
+  }
